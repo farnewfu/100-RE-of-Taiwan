@@ -1,0 +1,1 @@
+This is an energy balance simulation based on Taiwan's hourly electricity consumption data and the hourly power generation data of renewable energy. It simulates the renewable energy capacity requirements and storage size needs for Taiwan when large-scale deployment of renewable energy and storage equipment is implemented, and includes an economic feasibility analysis.
